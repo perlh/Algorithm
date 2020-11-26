@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 import random
 def sort(a, l, r):           # 冒泡排序
     for i in range(l, r + 1):

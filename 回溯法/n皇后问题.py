@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 num=0
 def eight_queen(arr,finish_line=0):
     if finish_line == len(arr):                     #如果放置皇后成功的行数与数组中的元素个数一致（即棋盘的行数）则认为完成了一种摆法

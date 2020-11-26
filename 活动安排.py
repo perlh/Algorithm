@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 # 用冒泡排序对结束时间进行排序，同时得到对应的开始时间的list
 def bubble_sort(s, f):
     for i in range(len(f)):

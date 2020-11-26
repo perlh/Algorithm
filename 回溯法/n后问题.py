@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 n = 8       #定义n为8的8皇后问题
 x = [None]*n   # 定义n个空数组
 sum  = 0  #用来保存结果的个数
